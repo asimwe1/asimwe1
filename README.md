@@ -9,9 +9,8 @@
 
 <!-- TROPHIES -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaz-3-0&label=Profile%20views&color=0e75b6&style=flat" alt="asimwe1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&plastic" alt="asimwe1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=jaz-3-0" alt="asimwe1" /></a> </p>
 
 <!-- ------------------------ -->
 

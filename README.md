@@ -1,6 +1,6 @@
 <h1 align="center" font-family="sans" color="blue">Hi there👋, I'm LANDRY CHRETIEN</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Rust+System+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer; )](https://git.io/typing-svg)
 
 <img src='./welcome.jpeg' height='400px' width="1000px"/>
 

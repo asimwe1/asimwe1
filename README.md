@@ -13,7 +13,7 @@
 
 ![asimwe1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimwe1&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimwe1&layout=compact)
-[![asimwe1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asimwe1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ------------------------ -->
 
 - **I’m currently learning** _NEXT.JS, Rustlang, AI & Machine Learning_

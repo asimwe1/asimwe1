@@ -10,6 +10,7 @@
 <!-- TROPHIES -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&plastic" alt="asimwe1" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <!-- ------------------------ -->
@@ -37,4 +38,4 @@
 
 -------------------------
 
-[@asimwe1](https://asimwe-landry.vercel.app)
+[@asimwe1](https://landrysb.online)

@@ -11,7 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&plastic" alt="asimwe1" /> </p>
 
-[![Asiwme1's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimwe1&hide=contribs,prs)]
+![Asiwme1's GitHub stats](https://github-readme-stats.vercel.app/api?username=asimwe1&hide=contribs,prs)
+![FardinHash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FardinHash&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
 
 
 <!-- ------------------------ -->

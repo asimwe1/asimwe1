@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&plastic" alt="asimwe1" /> </p>
 
 ![asimwe1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimwe1&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimwe1&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimwe1&langs_count=7)
 <!-- ------------------------ -->
 
 - **I’m currently learning** _NEXT.JS, Rustlang, AI & Machine Learning_

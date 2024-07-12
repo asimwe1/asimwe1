@@ -12,6 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&plastic" alt="asimwe1" /> </p>
 
 ![asimwe1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimwe1&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=asimwe1&theme=dark)](https://git.io/streak-stats)
 
 <!-- ------------------------ -->
 

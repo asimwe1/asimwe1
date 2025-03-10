@@ -16,7 +16,7 @@
 
 <!-- ------------------------ -->
 
-- **I’m currently learning** _NEXT.JS, Rustlang, AI & Machine Learning_
+- **I’m currently dealing with** _NEXT.JS, Rustlang, AI & Machine Learning_
 
 - **Don't hesitate to reach out to me at** _**<landryasimwe@gmail.com>**_
 
